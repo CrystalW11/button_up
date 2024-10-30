@@ -1,7 +1,8 @@
 # Button Up
 
 Here is an example of how mine turned out at the top. 
-
+![alt text](image-1.png)
+<hr/>
 
 #### Objectives:
 
